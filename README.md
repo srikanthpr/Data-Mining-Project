@@ -1,11 +1,11 @@
 # Data-Mining-Project
-This project helps us to understand the concepts on supervised and unspervised learning
+*This project helps us to understand the concepts on supervised and unspervised learning.*
 
 # Problem-1 - Bank customer segmentation:
-A leading bank wants to develop a customer segmentation to give promotional offers to its customers. They collected a sample that summarizes the activities of users during the past few months. You are given the task to identify the segments based on credit card usage.
+**A leading bank wants to develop a customer segmentation to give promotional offers to its customers. They collected a sample that summarizes the activities of users during the past few months. You are given the task to identify the segments based on credit card usage.**
 
 This problem statement help us to understand the concept of unsupervised learning technique:
-1.Heirarchical clustering - Agglomerative clustering
+1. Heirarchical clustering - Agglomerative clustering
     a.Dendogram: Useful graphical representation of clustering process and results.
 2.Partitioning clustering - K-means clustering.
     a.Model validation - To find out the optimum number of K-value.
