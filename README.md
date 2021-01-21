@@ -6,9 +6,9 @@
 
 This problem statement help us to understand the concept of unsupervised learning technique:
 1. Heirarchical clustering - Agglomerative clustering
-    a. Dendogram: Useful graphical representation of clustering process and results.
+    - Dendogram: Useful graphical representation of clustering process and results.
 2. Partitioning clustering - K-means clustering.
-    a. Model validation - To find out the optimum number of K-value.
+    - Model validation - To find out the optimum number of K-value.
         - Silhouette plot
         - Elbow plot | WSS plot | Distortion plot 
 
