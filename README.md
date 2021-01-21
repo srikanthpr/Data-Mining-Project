@@ -20,7 +20,7 @@ This problem statement help us to understand the concept of supervised learning 
 2. Random Forest - Ensemble Learning Technique
 3. ANN - Artificial Neural Networks.
 4. Model Evaluation - Various performance metrics have been used to validate the performance of predictions on Test & Train sets.
-    a. Model Accuracy
-    b. Classification Report
-    c. Confusion matrix.
-    d. ROC curve
+    - Model Accuracy
+    - Classification Report
+    - Confusion matrix.
+    - ROC curve
